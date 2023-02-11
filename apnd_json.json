@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Qasim",
+        "gender": "Male",
+        "designation": "Developer"
+    },
+    {
+        "name": "Saurabh",
+        "gender": "Male",
+        "designation": "Supervisor"
+    },
+    {
+        "name": "Falak",
+        "gender": "Female",
+        "designation": "Developer"
+    },
+    {
+        "name": "Tarique",
+        "gender": "Male",
+        "designation": "Tailor"
+    },
+    {
+        "name": "Kishan",
+        "gender": "Male",
+        "designation": "Developer"
+    },
+    {
+        "name": "Afiya",
+        "gender": "Female",
+        "designation": "Housewife"
+    },
+    {
+        "name": "Zamzam",
+        "gender": "Male",
+        "designation": "Keeper"
+    },
+    {
+        "name": "Irfan",
+        "gender": "Male",
+        "designation": "Driver"
+    },
+    {
+        "name": "Zaid",
+        "gender": "Male",
+        "designation": "Student"
+    },
+    {
+        "name": "Sunny",
+        "gender": "Male",
+        "designation": "Former"
+    },
+    {
+        "name": "Jaid",
+        "gender": "Male",
+        "designation": "Worker"
+    },
+    {
+        "name": "Ram",
+        "gender": "Male",
+        "designation": "Katra"
+    }
+]

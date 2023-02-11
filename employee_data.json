@@ -1,0 +1,37 @@
+[
+    {
+        "Name":"AbulQaism",
+        "Gender":"Male",
+        "Designation":"Developer"
+    },
+    {
+        "Name":"Saurabh",
+        "Gender":"Male",
+        "Designation":"Supervisor"
+    },
+    {
+        "Name":"Farhan",
+        "Gender":"Male",
+        "Designation":"Clerk"
+    },
+    {
+        "Name":"Jaciya",
+        "Gender":"Female",
+        "Designation":"Keeper"
+    },
+    {
+        "Name":"Monali",
+        "Gender":"Female",
+        "Designation":"Housewife"
+    },
+    {
+        "Name":"Qasim",
+        "Gender":"Male",
+        "Designation":"Developer"
+    },
+    {
+        "Name":"Falak",
+        "Gender":"Female",
+        "Designation":"Teacher"
+    }
+]
